@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Developer\\Manager\\src\\Manager.Domain\\Manager.Domain.csproj": {}
+    "C:\\Developer\\Manager\\src\\Manager.Core\\Manager.Core.csproj": {}
   },
   "projects": {
-    "C:\\Developer\\Manager\\src\\Manager.Domain\\Manager.Domain.csproj": {
+    "C:\\Developer\\Manager\\src\\Manager.Core\\Manager.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Developer\\Manager\\src\\Manager.Domain\\Manager.Domain.csproj",
-        "projectName": "Manager.Domain",
-        "projectPath": "C:\\Developer\\Manager\\src\\Manager.Domain\\Manager.Domain.csproj",
+        "projectUniqueName": "C:\\Developer\\Manager\\src\\Manager.Core\\Manager.Core.csproj",
+        "projectName": "Manager.Core",
+        "projectPath": "C:\\Developer\\Manager\\src\\Manager.Core\\Manager.Core.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Developer\\Manager\\src\\Manager.Domain\\obj\\",
+        "outputPath": "C:\\Developer\\Manager\\src\\Manager.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,12 +37,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "fluentvalidation": {
-              "target": "Package",
-              "version": "[10.3.6, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
