@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S+q3Gow8nyP9bTAEyGTerAnLpCpmxCufITHhJI45Th330bwuaDb6qO7outGOZiP1VmDqkMPlU6z4kO/O1Ctjug==",
+  "dgSpecHash": "AJH/sxXsv+tvoA6gRdB4TSkaevIw9+Aa3xcTj/OaDRpr/7mvFChfmw6/9dX5LkP3HW7V58lAAaDe5ITVdm0iRw==",
   "success": true,
-  "projectFilePath": "C:\\Developer\\Manager\\src\\Manager.Service\\Manager.Service.csproj",
+  "projectFilePath": "c:\\Developer\\Manager\\src\\3 - Manager.Service\\Manager.Service.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

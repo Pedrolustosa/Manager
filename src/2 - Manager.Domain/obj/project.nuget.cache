@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "c0WQcwPaahQ7w70WgBlaIUDipJyBFgXrXwSkVKsgl5ZnRef1bHc6J5sVCP8HOl6CQfz5gXCNy24J33tOVkiJhA==",
+  "dgSpecHash": "QE5A0i/BL4yseUjThEDJCnOSYlmxgLP1524OGVT2HgzVIG+E1FYOY+4v7W+w3kjq1Un6II3sxqmsuR0M6PUryg==",
   "success": true,
-  "projectFilePath": "C:\\Developer\\Manager\\src\\Manager.Domain\\Manager.Domain.csproj",
+  "projectFilePath": "C:\\Developer\\Manager\\src\\2 - Manager.Domain\\Manager.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\pedro\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512"
+    "C:\\Users\\pedro\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
   ],
   "logs": []
 }
