@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Developer\\Manager\\src\\Manager.Service\\Manager.Service.csproj": {}
+    "c:\\Developer\\Manager\\src\\3 - Manager.Service\\Manager.Service.csproj": {}
   },
   "projects": {
-    "C:\\Developer\\Manager\\src\\Manager.Service\\Manager.Service.csproj": {
+    "c:\\Developer\\Manager\\src\\3 - Manager.Service\\Manager.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Developer\\Manager\\src\\Manager.Service\\Manager.Service.csproj",
+        "projectUniqueName": "c:\\Developer\\Manager\\src\\3 - Manager.Service\\Manager.Service.csproj",
         "projectName": "Manager.Service",
-        "projectPath": "C:\\Developer\\Manager\\src\\Manager.Service\\Manager.Service.csproj",
+        "projectPath": "c:\\Developer\\Manager\\src\\3 - Manager.Service\\Manager.Service.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Developer\\Manager\\src\\Manager.Service\\obj\\",
+        "outputPath": "c:\\Developer\\Manager\\src\\3 - Manager.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"

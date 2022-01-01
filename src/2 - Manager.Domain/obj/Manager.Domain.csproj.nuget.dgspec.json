@@ -1,17 +1,79 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Developer\\Manager\\src\\Manager.Domain\\Manager.Domain.csproj": {}
+    "C:\\Developer\\Manager\\src\\2 - Manager.Domain\\Manager.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Developer\\Manager\\src\\Manager.Domain\\Manager.Domain.csproj": {
+    "C:\\Developer\\Manager\\src\\2 - Manager.Domain\\Manager.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Developer\\Manager\\src\\Manager.Domain\\Manager.Domain.csproj",
+        "projectUniqueName": "C:\\Developer\\Manager\\src\\2 - Manager.Domain\\Manager.Domain.csproj",
         "projectName": "Manager.Domain",
-        "projectPath": "C:\\Developer\\Manager\\src\\Manager.Domain\\Manager.Domain.csproj",
+        "projectPath": "C:\\Developer\\Manager\\src\\2 - Manager.Domain\\Manager.Domain.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Developer\\Manager\\src\\Manager.Domain\\obj\\",
+        "outputPath": "C:\\Developer\\Manager\\src\\2 - Manager.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "c:\\Developer\\Manager\\src\\5 - Manager.Core\\Manager.Core.csproj": {
+                "projectPath": "c:\\Developer\\Manager\\src\\5 - Manager.Core\\Manager.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "fluentvalidation": {
+              "target": "Package",
+              "version": "[10.3.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Developer\\Manager\\src\\5 - Manager.Core\\Manager.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Developer\\Manager\\src\\5 - Manager.Core\\Manager.Core.csproj",
+        "projectName": "Manager.Core",
+        "projectPath": "c:\\Developer\\Manager\\src\\5 - Manager.Core\\Manager.Core.csproj",
+        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+        "outputPath": "c:\\Developer\\Manager\\src\\5 - Manager.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,9 +100,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "fluentvalidation": {
+            "MediatR": {
               "target": "Package",
-              "version": "[10.3.6, )"
+              "version": "[9.0.0, )"
             }
           },
           "imports": [
